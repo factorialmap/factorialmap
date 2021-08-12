@@ -1,5 +1,7 @@
 # <p align=center>MARCELO CARVALHO DOS ANJOS</p>
 
+##<p align=center>Researcher, prof. of process improvement and surfer</p>
+
 
 #### What am I up to?
 >- Using the concept of learning by doing and addressing topics on everyday life in the industry. I try to facilitate research for sulutions using a simplified language
