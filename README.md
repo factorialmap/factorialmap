@@ -1,5 +1,8 @@
+# MARCELO CARVALHO DOS ANJOS
+
+
 #### What am I up to?
->- Using the concept of learning by doing and addressing topics on everyday life in the industry. I try to facilitade research for sulutions using a simplified language
+>- Using the concept of learning by doing and addressing topics on everyday life in the industry. I try to facilitate research for sulutions using a simplified language
 >- Usando o conceito de aprender fazendo e abordando temas diversos do dia a dia na industria procuro facilitar a pesquisa por soluções usando uma linguagem simplificada
 
 #### Experience
