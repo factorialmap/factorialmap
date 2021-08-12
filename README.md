@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**factorialmap/factorialmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### What am I up to?
 
 - Using the concept of learning by doing and addressing topics on everyday life in the industry. I try to facilitade research for sulutions using a simplified language
@@ -21,4 +16,8 @@
 
 ### Contact
 - 📫 How to reach me: youtube.com/carvalhoribeiro
+
+<!--
+**factorialmap/factorialmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
