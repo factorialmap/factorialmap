@@ -9,8 +9,8 @@
 >- Usando o conceito de aprender fazendo e abordando temas diversos do dia a dia na industria procuro facilitar a pesquisa por soluções usando uma linguagem simplificada
 
 #### :runner: Experience
->- 2016-2023 - Business & Process Improvement researcher and service
->- 2003-2016 - Business & Process Improvement Analyst (modeling, management and operations)
+>- 2017-2023 (06 yrs)- Business & Process Improvement researcher and service
+>- 2003-2016 (13 yrs)- Business & Process Improvement Analyst (modeling, management and operations)
 
 #### :school: Education
 >- MS(2010): Agroindustry Production and Management
