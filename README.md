@@ -9,11 +9,8 @@
 >- Usando o conceito de aprender fazendo e abordando temas diversos do dia a dia na industria procuro facilitar a pesquisa por soluções usando uma linguagem simplificada
 
 #### :runner: Experience
->- 2016-2021 - Business Analyst, researcher, prof. of process improvment and small ivestor
->- 2014-2016 - Business Intelligence and Process Improvement analyst
->- 2011-2012 - Business Intelligence Analyst
->- 2008-2010 - Business Intelligence and Process Improvement Analyst
->- 2000-2007 - Business Intelligence and Supply Chain Planing (modeling, management and operations)
+>- 2016-2023 - Business & Process Improvement researcher and service
+>- 2003-2016 - Business & Process Improvement Analyst (modeling, management and operations)
 
 #### :school: Education
 >- MS(2010): Agroindustry Production and Management
