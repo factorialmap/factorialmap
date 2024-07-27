@@ -8,7 +8,7 @@
 >- using r programming language, linear programming and business intelligence tools in kaizen projects. 
 
 #### :runner: Experience
->- 2017-2023 (06 yrs)- Business & Process Improvement researcher and service
+>- 2017-2024 (07 yrs)- Business & Process Improvement researcher and service
 >- 2003-2016 (13 yrs)- Business & Process Improvement Analyst (modeling, management and operations)
 
 #### :school: Education
