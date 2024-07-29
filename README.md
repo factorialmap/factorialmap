@@ -1,7 +1,7 @@
 
 # <p align=center>MARCELO CARVALHO DOS ANJOS</p>
 
-## <p align=center>Researcher, prof. of process improvement and surfer</p>
+## <p align=center>Data Analysis & Kaizen Projects</p>
 
 
 #### :bulb: What am I up to?
