@@ -5,7 +5,7 @@
 
 
 #### :bulb: What am I up to?
->- using r programming language, linear programming and business intelligence tools in kaizen projects. 
+>- using r programming language, linear programming and business intelligence tools for kaizen projects. 
 
 #### :runner: Experience
 >- 2017-2024 (07 yrs)- Business & Process Improvement researcher and service
