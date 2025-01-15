@@ -14,6 +14,7 @@
 #### :school: Education
 >- MS(2010): Agroindustry Production and Management
 >- BS(2000): Businesss Administration
+>- High School(1996): Technical in Agriculture
 
 #### :mag: Where you find me
 >- How to reach me: youtube.com/carvalhoribeiro
